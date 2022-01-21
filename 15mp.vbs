@@ -1,0 +1,1 @@
+x=msgbox("Figyelem! 15 masodperced maradt hatra!" ,16, "Kileptetes (15 masodperc)")
